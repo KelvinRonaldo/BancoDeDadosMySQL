@@ -1,0 +1,13 @@
+cinema
+
+precisa ter um controle dos
+filmes que estão em cartaz
+
+-titulo
+-tempo de duração
+-elenco do filme
+-diretor
+-horarios das sessões
+
+= 3 salas
+
